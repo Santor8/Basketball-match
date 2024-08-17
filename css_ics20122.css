@@ -1,0 +1,23 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    color: red;
+    
+  }
+
+  h1{
+	text-align: center;
+	font-size: 50px;
+	color: rgb(255, 255, 255);
+	font-family: "Source Sans Pro", sans-serif;
+	text-shadow: 5px 2px rgb(0, 0, 0);
+}
+body {
+	background-image: url("Basket.jpg");
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
